@@ -1,0 +1,100 @@
+# =============================================================================
+# AI / ML Dependencies
+# =============================================================================
+
+# -- LLM Provider Clients -----------------------------------------------------
+openai
+anthropic
+google-genai
+cohere
+mistralai
+ollama
+groq
+together
+
+# -- LLM Orchestration & RAG Frameworks ---------------------------------------
+langchain
+langchain-openai
+langchain-anthropic
+langchain-community
+langchain-core
+langgraph
+llama-index
+llama-index-llms-openai
+llama-index-llms-anthropic
+llama-index-embeddings-openai
+crewai
+autogen-agentchat
+dspy-ai
+
+# -- Hugging Face Ecosystem ----------------------------------------------------
+transformers
+huggingface-hub
+datasets
+accelerate
+peft
+tokenizers
+safetensors
+sentence-transformers
+evaluate
+trl
+
+# -- Deep Learning Frameworks --------------------------------------------------
+torch --index-url https://download.pytorch.org/whl/cpu
+torchvision --index-url https://download.pytorch.org/whl/cpu
+torchaudio --index-url https://download.pytorch.org/whl/cpu
+
+# -- Classical ML --------------------------------------------------------------
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# -- NLP -----------------------------------------------------------------------
+spacy
+nltk
+tiktoken
+
+# -- Computer Vision -----------------------------------------------------------
+opencv-python-headless
+pillow
+ultralytics
+
+# -- Vector Databases & Embeddings ---------------------------------------------
+chromadb
+faiss-cpu
+qdrant-client
+pinecone
+weaviate-client
+
+# -- Data & Scientific Computing -----------------------------------------------
+numpy
+pandas
+scipy
+polars
+
+# -- Visualization -------------------------------------------------------------
+matplotlib
+seaborn
+plotly
+
+# -- MLOps & Experiment Tracking -----------------------------------------------
+mlflow
+wandb
+tensorboard
+
+# -- AI App Frameworks ---------------------------------------------------------
+gradio
+streamlit
+
+# -- Utilities -----------------------------------------------------------------
+einops
+bitsandbytes
+python-dotenv
+pydantic
+httpx
+aiohttp
+tenacity
+tqdm
+rich
+typer
