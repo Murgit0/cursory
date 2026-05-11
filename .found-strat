@@ -1,0 +1,66 @@
+# Stradivarius violin survey (.found-strat)
+
+Compiled: 2026-05-11. This file aggregates publicly indexed information about Antonio Stradivari violins from web research and cited sources. It is not an exhaustive crawl of the internet; no single public index lists every surviving instrument.
+
+---
+
+## Scale and documentation
+
+- Antonio Stradivari (c. 1644–1737), Cremona, Italy, produced roughly ~1,000 instruments in his career; on the order of ~650 Stradivari instruments of all kinds are thought to survive (violins, violas, cellos, etc.—figures vary by source).
+- Authoritative aggregators and lists:
+  - Wikipedia — List of Stradivarius instruments (includes hundreds of named violins): https://en.wikipedia.org/wiki/List_of_Stradivarius_instruments
+  - Casa Stradivari — Database of Stradivari instruments: http://www.casa-stradivari.com/instruments_en.html
+  - Tarisio — Cozio Archive, maker Antonio Stradivari: https://tarisio.com/cozio-archive/browse-the-archive/makers/maker/?Maker_ID=722+
+  - The Violin Site — Stradivarius-related listing/tracker: http://www.theviolinsite.com/violin_making/strad-violins.html
+  - Tarisio — Historic register of recovered stolen instruments and bows: https://tarisio.com/cozio-archive/stolen-instrument-register/historic-register-of-recovered-instruments-and-bows/
+
+---
+
+## Museums and public collections (examples)
+
+- Museo del Violino (Fondazione Stradivari), Cremona, Italy — major Stradivari-related collection, tools, and displayed instruments: https://museodelviolino.org/en
+  - Example exhibits: “Clisbee” violin (1669), cello (1700), and other Cremonese masters in “Room 5 / The treasure box”: http://www.museodelviolino.org/en/museo/percorso-museale/sala-5-lo-scrigno-dei-tesori/
+- Ashmolean Museum, Oxford — the “Messiah” Stradivari violin (1716): https://www.ashmolean.org/messiah-violin-stradivari
+- Oesterreichische Nationalbank (OeNB), Vienna — historical string collection including Stradivari context: https://www.oenb.at/en/About-Us/collection-of-historical-string-instruments/violinmakers/stradivari-antonio.html
+
+---
+
+## Notable individual violins (named / high profile)
+
+| Sobriquet / name        | Year (approx.) | Notes |
+|-------------------------|----------------|--------|
+| Messiah                 | 1716          | Ashmolean; exceptionally preserved; “expected but rarely seen” origin of name. Wikipedia: https://en.wikipedia.org/wiki/Messiah_Stradivarius |
+| Lady Blunt              | 1721          | Charity sale 2011; widely cited as record auction for a Strad (figures in USD ~$15.9M cited in press). Wikipedia: https://en.wikipedia.org/wiki/Lady_Blunt_Stradivarius |
+| Joachim–Ma              | 1714          | Sotheby’s New York, 7 Feb 2025; ~$11.25M; Joseph Joachim / Si-Hon Ma provenance; NEC scholarship endowment. NPR: https://www.npr.org/2025/02/08/nx-s1-5290972/stradivarius-violin-auction-short-record |
+| Gibson “ex Huberman”    | 1713          | Stolen/recovered history; associated with Huberman, later Joshua Bell. Wikipedia: https://en.wikipedia.org/wiki/Gibson_Stradivarius |
+| Soil                    | 1714          | Associated with Itzhak Perlman in common reporting (nickname “Soil”). |
+| McKay (auction listing) | c. 1737       | Kodner Auctions, 8 Oct 2025 (catalogue context); press cited estimate range ~$2–9M. Kodner: https://www.kodner.com/auctions/2025/10/08/stradivarius-violin-estate-jewelry-decoration/81 |
+
+Additional named instruments appear in the Wikipedia list and Tarisio/Cozio (hundreds of entries).
+
+---
+
+## Recent auction and press (examples)
+
+- Joachim–Ma (1714), Sotheby’s 2025 — ~$11.25 million; below some presale estimates ($12–18M cited). Smithsonian summary: https://www.smithsonianmag.com/smart-news/this-storied-stradivarius-violin-made-in-1714-just-sold-for-over-11-million-at-auction-180986029/
+- Lady Blunt (1721), 2011 — widely reported record for a musical instrument at time of sale (USD ~$15.9M in later summaries).
+- McKay (~1737), Kodner 2025 — see Kodner link above.
+
+---
+
+## “Golden period” and maker context
+
+- Stradivari’s “golden period” is often given roughly as ~1700–1720; instruments from this era (e.g. 1713–1716) are frequently highlighted in sales and museum narratives.
+- Sotheby’s digital catalogue for the Joachim–Ma sale: https://www.sothebys.com/en/digital-catalogues/the-joachim-ma-stradivarius-a-masterpiece-of-sound
+
+---
+
+## Trade, security, and provenance
+
+- High-value instruments are tracked in specialist archives (Tarisio/Cozio), insurance registers, and stolen-instrument databases; always verify ownership and authenticity through independent expertise.
+
+---
+
+## Endnote
+
+For a machine-readable or “complete” inventory, curators and dealers merge Cozio, museum inventories, auction houses, and scholarly catalogues (e.g. Doring, Henley, W.E. Hill & Sons literature). This `.found-strat` file is a snapshot pointer set, not a merger of those proprietary databases.
